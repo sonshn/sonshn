@@ -7,7 +7,6 @@
 - 📫 How to reach me ... **sonshn@naver.com** or **sonshn202064@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonshn&show_icons=true&theme=calm)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=monokai)
 
 <!---
