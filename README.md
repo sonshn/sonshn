@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=footer&text=Hi,%20there!%20Welcome!&fontSize=64)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Hi,%20there!%20Welcome!&fontSize=48)
 
 - 👋 Hi, I’m @sonshn
 - 👀 I’m interested in ...
