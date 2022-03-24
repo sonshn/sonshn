@@ -6,8 +6,18 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... **sonshn@naver.com** or **sonshn202064@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonshn&show_icons=true&theme=calm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=monokai&card_width=240)
+<h3 align="center">💡 Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/$sonshn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=monokai&card_width=240" />
+  </a>
+</p>
+<h3 align="center">💡 GitHub Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/$sonshn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonshn&show_icons=true&theme=calm" />
+  </a>
+</p>
 
 <!---
 sonshn/sonshn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
