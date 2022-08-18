@@ -15,7 +15,7 @@
 <h3 align="center">💡 GitHub Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/$sonshn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonshn&show_icons=true&theme=calm" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonshn&count_private=true&show_icons=true&theme=calm&exclude_repo=" />
   </a>
 </p>
 
