@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Hi,%20there!%20Welcome!&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Hi,%20there!%20🎉%20Welcome!%20☕&fontSize=48)
 
 - 👋 Hi, I’m @sonshn
 - 👀 I’m interested in **Full Stack Developer**
@@ -18,7 +18,7 @@
 <h3 align="center">💡 GitHub Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/$sonshn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonshn&theme=calm&exclude_repo=" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonshn&count_private=true&show_icons=true&theme=calm&exclude_repo=" />
   </a>
 </p>
 
