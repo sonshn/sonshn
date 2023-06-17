@@ -12,7 +12,7 @@
 <h3 align="center">💡 Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/$sonshn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=monokai&card_width=240" />
+    <img align="center" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=monokai&card_width=240" />
   </a>
 </p>
 <h3 align="center">💡 GitHub Stats 💡</h3>
