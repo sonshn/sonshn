@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Hi,%20there!%20🎉%20Welcome!%20☕&fontSize=48)
 
-- 👋 Hi, I’m @sonshn
+- 👋 Hi, I’m **☕ Venti!**
 - 👀 I’m interested in **Full Stack Developer**
 - 🌱 I’m currently learning
   - <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
