@@ -4,10 +4,12 @@
 - 👀 I’m interested in **Full Stack Developer**
 - 🌱 I’m currently learning
   > **📚 Programming Language**
-    - <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=white">
+    - <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=white"></a>
+    - <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"></a>
   > **🖥️ Tech Stack**
     - <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
     - <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>
+    - <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
 - 💞️ I’m looking to collaborate on
   - [CommonPlant](https://github.com/UMC-CommonPlant)
 - 📫 How to reach me ... **sonshn@naver.com** or **cocoa5043@gmail.com**
