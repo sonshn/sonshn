@@ -18,7 +18,7 @@
 <h3 align="center">💡 Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/$sonshn">
-    <img align="center" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=solarized-light&card_width=240&hide=jupyter%20notebook" />
+    <img align="center" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=catppuccin_latte&card_width=240&hide=jupyter%20notebook" />
   </a>
 </p>
 <h3 align="center">💡 GitHub Stats 💡</h3>
