@@ -24,7 +24,7 @@
 <h3 align="center">💡 GitHub Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/$sonshn">
-    <img align="center" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api?username=sonshn&theme=solarized-light&count_private=true&show_icons=true&exclude_repo=" />
+    <img align="center" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api?username=sonshn&theme=solarized-light&count_private=true&show_icons=true&hide_rank=true&exclude_repo=" />
   </a>
 </p>
 
