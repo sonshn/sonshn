@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on
   - 🌳 [CommonPlant](https://github.com/UMC-CommonPlant/CommonPlant-Server-Refactoring)
   - 👨‍👩‍👧‍👦 [FamilyMoments](https://github.com/familymoments)
-- 📫 How to reach me ... **sonshn@naver.com** or **cocoa5043@gmail.com**
 
 #
 <h3 align="center">💡 GitHub Stats 💡</h3>
@@ -23,6 +22,17 @@
   </a>
   <a href="https://github.com/$sonshn">
     <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=solarized-light&card_width=320&hide=jupyter%20notebook" />
+  </a>
+</p>
+
+#
+<h3 align="center">📫 How to reach me ...</h3>
+<p align="center">
+  <a href="cocoa5043@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
+  </a>
+  <a href="sonshn@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>
   </a>
 </p>
 
