@@ -18,10 +18,10 @@
 <h3 align="center">💡 GitHub Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/$sonshn">
-    <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api?username=sonshn&theme=solarized-light&count_private=true&show_icons=true&rank_icon=github&exclude_repo=" />
+    <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api?username=sonshn&theme=solarized-light&count_private=true&show_icons=true&rank_icon=github&exclude_repo=" /></a>
   </a>
   <a href="https://github.com/$sonshn">
-    <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=solarized-light&card_width=320&hide=jupyter%20notebook" />
+    <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=solarized-light&card_width=320&hide=jupyter%20notebook" /></a>
   </a>
 </p>
 
@@ -29,10 +29,10 @@
 <h3 align="center">📫 How to reach me ...</h3>
 <p align="center">
   <a href="mailto:cocoa5043@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
   </a>
   <a href="mailto:sonshn@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>
   </a>
 </p>
 
