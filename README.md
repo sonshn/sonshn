@@ -28,10 +28,10 @@
 #
 <h3 align="center">📫 How to reach me ...</h3>
 <p align="center">
-  <a href="https://cocoa5043@gmail.com">
+  <a href="mailto:https://cocoa5043@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
   </a>
-  <a href="https://sonshn@naver.com">
+  <a href="mailto:https://sonshn@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>
   </a>
 </p>
