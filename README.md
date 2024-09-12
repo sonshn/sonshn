@@ -27,6 +27,7 @@
 
 #
 <h3 align="center">📫 How to reach me ...</h3>
+<p align="center">Click image below 😄</p>
 <p align="center">
   <a href="mailto:cocoa5043@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
@@ -40,3 +41,4 @@
 sonshn/sonshn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
