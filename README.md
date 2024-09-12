@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Hi,%20there!%20🎉%20Welcome!%20☕&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hi,%20there!%20👋%20Welcome!%20🎉&fontSize=48&fontAlignY=35&animation=fadeIn&desc=This%20is%20SeungHyun%20Son's%20GitHub!%20☕&descSize=24&descAlign=60&descAlignY=65)
 
 - 👋 Hi, I’m **SeungHyun Son (손승현)! ☕**
 - 👀 I’m interested in **Backend Developer**
