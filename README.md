@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&text=Hi,%20there!%20🎉%20Welcome!%20☕&fontSize=48)
 
-- 👋 Hi, I’m **☕ Venti!**
-- 👀 I’m interested in **Full Stack Developer**
+- 👋 Hi, I’m **SeungHyun Son (손승현)! ☕**
+- 👀 I’m interested in **Backend Developer**
 - 🌱 I’m currently learning
   > **📚 Programming Language**
     - <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=white"></a>
