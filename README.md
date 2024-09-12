@@ -15,16 +15,13 @@
   - 👨‍👩‍👧‍👦 [FamilyMoments](https://github.com/familymoments)
 - 📫 How to reach me ... **sonshn@naver.com** or **cocoa5043@gmail.com**
 
-<h3 align="center">💡 Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/$sonshn">
-    <img align="center" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=solarized-light&card_width=320&hide=jupyter%20notebook" />
-  </a>
-</p>
 <h3 align="center">💡 GitHub Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/$sonshn">
-    <img align="center" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api?username=sonshn&theme=solarized-light&count_private=true&show_icons=true&rank_icon=github&exclude_repo=" />
+    <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api?username=sonshn&theme=solarized-light&count_private=true&show_icons=true&rank_icon=github&exclude_repo=" />
+  </a>
+  <a href="https://github.com/$sonshn">
+    <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=solarized-light&card_width=320&hide=jupyter%20notebook" />
   </a>
 </p>
 
