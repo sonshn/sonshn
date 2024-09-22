@@ -4,10 +4,7 @@
 
 - 👋 Hi, I’m **SeungHyun Son (손승현)! ☕**
 - 👀 I’m interested in **Backend Developer**
-- 🌱 I’m currently learning
-    - <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
-    - <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
-    - <img src="https://img.shields.io/badge/Junit5-25A162?style=plastic&logo=Junit5&logoColor=white"/></a>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/Junit5-25A162?style=plastic&logo=Junit5&logoColor=white"/></a>
 - 👨‍💻 All of my projects are available at [here](https://github.com/sonshn#-projects-)!
 
 #
@@ -25,7 +22,7 @@
 #
 <details align="center">
 <summary><h3>🖥️ Tech Stack</h3>
-<br>Click the toogle to expand! 😄</summary>
+<br>Click the heading above or toogle to expand! 😄</summary>
 
 ### Programming Language
 ![Programming Language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,r&theme=light&titles=true)
