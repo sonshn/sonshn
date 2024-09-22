@@ -22,7 +22,7 @@
 #
 <details align="center">
 <summary><h3>🖥️ Tech Stack</h3>
-<br>Click the heading above or toogle to expand! 😄</summary>
+<br>Click the heading or toogle above to expand! 😄</summary>
 
 ### Programming Language
 ![Programming Language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,r&theme=light&titles=true)
