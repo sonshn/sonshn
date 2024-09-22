@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hi,%20there!%20👋%20Welcome!%20🎉&fontSize=48&fontAlignY=35&animation=fadeIn&desc=This%20is%20SeungHyun%20Son's%20GitHub!%20☕&descSize=24&descAlign=60&descAlignY=65)
 
+<h3 align="center">🧑 About Me</h3>
+
 - 👋 Hi, I’m **SeungHyun Son (손승현)! ☕**
 - 👀 I’m interested in **Backend Developer**
 - 🌱 I’m currently learning
@@ -10,6 +12,7 @@
     - <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
     - <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>
     - <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
+- 👨‍💻 All of my projects are available at [here](https://github.com/sonshn#-projects-)!
 
 #
 <h3 align="center">🔭 Projects 🔭</h3>
