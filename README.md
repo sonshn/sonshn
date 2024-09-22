@@ -11,27 +11,30 @@
 - 👨‍💻 All of my projects are available at [here](https://github.com/sonshn#-projects-)!
 
 #
-<h3 align="center">🖥️ Tech Stack</h3>
+<details align="center">
+<summary><h3>🖥️ Tech Stack</h3>
+<br>Click the toogle to expand! 😄</summary>
 
-##### Programming Language
+### Programming Language
 ![Programming Language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,r&theme=light&titles=true)
 
-##### Backend Development
+### Backend Development
 ![Backend Development](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,expressjs&theme=light&titles=true)
 ![Backend Development](https://go-skill-icons.vercel.app/api/icons?i=gradle,hibernate&theme=light&titles=true)
 
-##### Database
+### Database
 ![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,redis&theme=light&titles=true)
 
-##### DevOps & BaaS
+### DevOps & BaaS
 ![DevOps & BaaS](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,githubactions,firebase&theme=light&titles=true)
 
-##### Collaboration & Development Tool
+### Collaboration & Development Tool
 ![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=git,github,discord,figma,notion,slack&theme=light&titles=true)
 ![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=postman,idea,vscode&theme=light&titles=true)
 
-##### Others
+### Others
 ![Others](https://go-skill-icons.vercel.app/api/icons?i=swagger,windows,wsl&theme=light&titles=true)
+</details>
 
 #
 <h3 align="center">🔭 Projects 🔭</h3>
