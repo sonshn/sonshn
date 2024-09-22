@@ -5,14 +5,33 @@
 - 👋 Hi, I’m **SeungHyun Son (손승현)! ☕**
 - 👀 I’m interested in **Backend Developer**
 - 🌱 I’m currently learning
-  > **📚 Programming Language**
-    - <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=white"></a>
-    - <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"></a>
-  > **🖥️ Tech Stack**
     - <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
-    - <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>
-    - <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
+    - <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
+    - <img src="https://img.shields.io/badge/Junit5-25A162?style=plastic&logo=Junit5&logoColor=white"/></a>
 - 👨‍💻 All of my projects are available at [here](https://github.com/sonshn#-projects-)!
+
+#
+<h3 align="center">🖥️ Tech Stack</h3>
+
+##### Programming Language
+![Programming Language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,r&theme=light&titles=true)
+
+##### Backend Development
+![Backend Development](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,expressjs&theme=light&titles=true)
+![Backend Development](https://go-skill-icons.vercel.app/api/icons?i=gradle,hibernate&theme=light&titles=true)
+
+##### Database
+![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,redis&theme=light&titles=true)
+
+##### DevOps & BaaS
+![DevOps & BaaS](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,githubactions,firebase&theme=light&titles=true)
+
+##### Collaboration & Development Tool
+![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=git,github,discord,figma,notion,slack&theme=light&titles=true)
+![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=postman,idea,vscode&theme=light&titles=true)
+
+##### Others
+![Others](https://go-skill-icons.vercel.app/api/icons?i=swagger,windows,wsl&theme=light&titles=true)
 
 #
 <h3 align="center">🔭 Projects 🔭</h3>
