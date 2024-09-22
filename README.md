@@ -10,9 +10,18 @@
     - <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
     - <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/></a>
     - <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
-- 🔭 I’m currently working on
-  - 🌳 [CommonPlant](https://github.com/UMC-CommonPlant/CommonPlant-Server-Refactoring)
-  - 👨‍👩‍👧‍👦 [FamilyMoments](https://github.com/familymoments)
+
+#
+<h3 align="center">🔭 Projects 🔭</h3>
+
+|   **Period**   |   **Name**   | **Description** |        **Tech Stack**        |
+|:--------------:|:-------------:|:---------------:|:----------------------------:|
+| 2023.07 - Present | 👨‍👩‍👧‍👦 [FamilyMoments](https://github.com/familymoments) | 사진으로 소통하는 가족 공간, FamilyMoments | Spring Boot, MySQL, MongoDB |
+| 2023.01 - Present | 🌳 [Common Plant](https://github.com/UMC-CommonPlant) | 모두를 위한 식물 관리 애플리케이션, 커먼플랜트 | Spring Boot, MySQL, FCM, APNs |
+|  2024.01 - 2024.02 | 🍃 [GreenJoy](https://github.com/Green-Joy) | 환경을 위한 소셜 네트워크 서비스, GreenJoy (Google Solution Challenge 2024) | Spring Boot, MySQL, GCS |
+|  2023.11 - 2023.12 | 🚲 [따릉이 웹 애플리케이션](https://github.com/Database-5-Project-2023) | 데이터베이스 및 데이터시각화 강의 팀 프로젝트 (따릉이 관리 시스템) | Spring Boot, Spring Data JDBC, MySQL |
+|  2021.05 - 2021.06 | 📚 [온라인 쇼핑몰 웹 애플리케이션](https://github.com/swengineering7/Book-Shopping-Mall) | 소프트웨어 공학 강의 팀 프로젝트 (온라인 서점) | Node.js, Express, MySQL |
+|  2020.07 - 2021.06 | :kr: [인공지능 자연어처리 기반 개체명 인식기 고도화 기술 개발](https://github.com/to82350/Viva-Pro.) |  광운대학교 제5회 산학연계 SW프로젝트 | NumPy, TensorFlow, Torch, HTML/CSS |
 
 #
 <h3 align="center">💡 GitHub Stats 💡</h3>
