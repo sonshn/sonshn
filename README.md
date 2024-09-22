@@ -20,6 +20,7 @@
 
 ### Backend Development
 ![Backend Development](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,expressjs&theme=light&titles=true)
+<br>
 ![Backend Development](https://go-skill-icons.vercel.app/api/icons?i=gradle,hibernate&theme=light&titles=true)
 
 ### Database
@@ -29,7 +30,10 @@
 ![DevOps & BaaS](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,githubactions,firebase&theme=light&titles=true)
 
 ### Collaboration & Development Tool
-![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=git,github,discord,figma,notion,slack&theme=light&titles=true)
+![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=light&titles=true)
+<br>
+![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=discord,figma,notion,slack&theme=light&titles=true)
+<br>
 ![Collaboration & Development Tool](https://go-skill-icons.vercel.app/api/icons?i=postman,idea,vscode&theme=light&titles=true)
 
 ### Others
