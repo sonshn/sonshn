@@ -11,6 +11,18 @@
 - 👨‍💻 All of my projects are available at [here](https://github.com/sonshn#-projects-)!
 
 #
+<h3 align="center">📫 How to reach me ...</h3>
+<p align="center">Click image below 😄</p>
+<p align="center">
+  <a href="mailto:cocoa5043@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
+  </a>
+  <a href="mailto:sonshn@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>
+  </a>
+</p>
+
+#
 <details align="center">
 <summary><h3>🖥️ Tech Stack</h3>
 <br>Click the toogle to expand! 😄</summary>
@@ -60,18 +72,6 @@
   </a>
   <a href="https://github.com/$sonshn">
     <img height = "180em" src="https://github-readme-stats-kappa-hazel-98.vercel.app/api/top-langs/?username=sonshn&layout=compact&theme=solarized-light&card_width=320&hide=jupyter%20notebook" /></a>
-  </a>
-</p>
-
-#
-<h3 align="center">📫 How to reach me ...</h3>
-<p align="center">Click image below 😄</p>
-<p align="center">
-  <a href="mailto:cocoa5043@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
-  </a>
-  <a href="mailto:sonshn@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/></a>
   </a>
 </p>
 
