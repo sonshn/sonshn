@@ -9,7 +9,7 @@
 
 #
 <h3 align="center">📫 How to reach me ...</h3>
-<p align="center">Click image below 😄</p>
+<p align="center">📧 Email: Click image below 😄</p>
 <p align="center">
   <a href="mailto:cocoa5043@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
