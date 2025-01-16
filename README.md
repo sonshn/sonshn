@@ -58,7 +58,7 @@
 |   **Period**   |   **Name**   | **Description** |        **Tech Stack**        |
 |:--------------:|:-------------:|:---------------:|:----------------------------:|
 | 2024.12 - 2025.01 | 💝 [부꾸러미](https://github.com/Buggureomi) | 미처 못한 질문을 전해봐요,<br>부꾸러미 | Spring Boot, MySQL, jOOQ, GitHub Action, Swagger |
-| 2024.04 - 2024.09 | 👨‍👩‍👧‍👦 [FamilyMoments](https://github.com/familymoments) | 사진으로 소통하는 가족 공간,<br>FamilyMoments | Spring Boot, MySQL, MongoDB, Redis, AWS(EC2, S3) |
+| 2024.04 - 2024.09 | 👨‍👩‍👧‍👦 [FamilyMoments](https://github.com/familymoments) | 사진으로 소통하는 가족 공간,<br>FamilyMoments | Spring Boot, MySQL, MongoDB, Redis, AWS |
 | 2023.07 - 2024.09 | 🌳 [Common Plant](https://github.com/UMC-CommonPlant) | 모두를 위한 식물 관리 애플리케이션,<br>커먼플랜트 | Spring Boot, MySQL, FCM, APNs |
 | 2024.01 - 2024.02 | 🍃 [GreenJoy](https://github.com/Green-Joy) | 환경을 위한 소셜 네트워크 서비스, GreenJoy (Solution Challenge 2024) | Spring Boot, MySQL, GCS |
 | 2023.11 - 2023.12 | 🚲 [따릉이 웹 애플리케이션](https://github.com/Database-5-Project-2023) | 데이터베이스 팀 프로젝트<br>(따릉이 관리 시스템) | Spring Boot, Spring Data JDBC, MySQL |
