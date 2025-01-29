@@ -63,7 +63,7 @@
 | 2024.01 - 2024.02 | 🍃 [GreenJoy](https://github.com/Green-Joy) | 환경을 위한 소셜 네트워크 서비스, GreenJoy (Solution Challenge 2024) | Spring Boot, MySQL, GCS |
 | 2023.11 - 2023.12 | 🚲 [따릉이 웹 애플리케이션](https://github.com/Database-5-Project-2023) | 데이터베이스 팀 프로젝트<br>(따릉이 관리 시스템) | Spring Boot, Spring Data JDBC, MySQL |
 | 2021.05 - 2021.06 | 📚 [온라인 쇼핑몰 웹 애플리케이션](https://github.com/swengineering7/Book-Shopping-Mall) | 소프트웨어 공학 팀 프로젝트<br>(온라인 서점) | Node.js, Express, MySQL |
-| 2020.07 - 2021.06 | :kr: [인공지능 자연어처리 기반 개체명 인식기 고도화 기술 개발](https://github.com/to82350/Viva-Pro.) | 광운대학교 제5회 산학연계 SW프로젝트 | NumPy, TensorFlow, Torch, HTML/CSS |
+| 2020.07 - 2021.06 | :kr: [인공지능 자연어처리 기반 개체명 인식기 고도화 기술 개발](https://github.com/to82350/Viva-Pro.) | 광운대학교 제5회 산학연계 프로젝트 | NumPy, TensorFlow, Torch, HTML/CSS |
 
 #
 <h3 align="center">💡 GitHub Stats 💡</h3>
