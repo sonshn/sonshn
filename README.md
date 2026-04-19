@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m **SeungHyun Son (손승현)! ☕**
 - 👀 I’m interested in **Backend Developer**
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/Junit5-25A162?style=plastic&logo=Junit5&logoColor=white"/></a>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=Claude&logoColor=white"/></a>
 - 👨‍💻 All of my projects are available at [here](https://github.com/sonshn#-projects-)!
 
 #
